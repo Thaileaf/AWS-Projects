@@ -8,7 +8,7 @@ You can view/download all projects from my Google Drive as well:
 
 ## Projects Overview
 
-This repository contains step-by-step guides for building the following AWS-powered applications:
+This repository contains step-by-step guides for building the following AWS applications:
 
 ### 1. Minecraft Server with CloudWatch Monitoring
 
@@ -140,7 +140,7 @@ To complete these projects, you'll need:
 
 Each project is contained in its own directory with:
 
-- A PDF with all of the step by step instructions
+- A Document with all of the step by step instructions
 - Configuration files and code samples when applicable
 
 ## Cost Considerations
