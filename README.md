@@ -24,11 +24,11 @@ This repository contains step-by-step guides for building the following AWS-powe
 
 **AWS Services:** Lightsail, CloudWatch, Lambda, EC2, VPC
 
-[View Tutorial →](./minecraft-server/)
+[View Tutorial →](./Proj-2-Minecraft-Server/)
 
 ---
 
-### 2. Jellyfin Media Server
+### 2. Jellyfin Netflix-Like Media Server
 
 ![Jellyfin Media Server](https://raw.githubusercontent.com/your-username/AWS-Projects/main/images/jellyfin-thumbnail.png)
 
@@ -43,7 +43,7 @@ This repository contains step-by-step guides for building the following AWS-powe
 
 **AWS Services:** EC2, VPC, ALB, S3, EBS, IAM
 
-[View Tutorial →](./jellyfin-server/)
+[View Tutorial →](./Proj-3-Netflix-Like-Media-Server/)
 
 ---
 
@@ -62,25 +62,66 @@ This repository contains step-by-step guides for building the following AWS-powe
 
 **AWS Services:** Route 53, SES, Lambda, DynamoDB, S3
 
-[View Tutorial →](./email-masking/)
+[View Tutorial →](./Proj-4-Mail-Mask/)
 
 ---
 
-### 4. Static Website Hosting
+### 4. Portfolio
 
 ![Static Website](https://raw.githubusercontent.com/your-username/AWS-Projects/main/images/website-thumbnail.png)
 
-**Description:** Deploy a personal portfolio website using S3 static website hosting.
+**Description:** Deploy a personal portfolio website using S3 static website hosting. This will consist of multiple parts, with each part ending in a complete project while adding extra features.
+
+Part 1: Static Website Hosting
+
+Set up S3 static website hosting
+Configure bucket policies for public access
+Upload and organize portfolio files
+Test and troubleshoot website delivery
+
+Part 2: Database Integration with RDS
+
+Create VPC with custom network configuration
+Launch EC2 instance with Python web server
+Set up MySQL database with Amazon RDS
+Implement form submission with database storage
+Configure security groups for proper access
+
+Part 3: API Gateway and VPC Link
+
+Create API Gateway for secure traffic management
+Implement VPC Link for enhanced security
+Set up HTTPS-enabled endpoints
+Protect EC2 instance from direct internet exposure
+Create custom routes for form submissions
+
+Part 4: Serverless Backend with Lambda
+
+Create Lambda functions for form processing
+Connect Lambda to RDS database
+Configure function URLs for public access
+Implement environment variables for secure configuration
+Test and troubleshoot serverless implementation
+
+Part 5: Content Delivery with CloudFront
+
+Implement global content delivery with CloudFront
+Enable HTTPS for secure client connections
+Configure caching for improved performance
+Test and measure load time improvements
+Compare regional performance differences
 
 **Skills learned:**
-- Configuring S3 buckets for web hosting
-- Setting up proper IAM policies
-- Managing file uploads to S3
-- Enabling public web access securely
+Multi-tier web application architecture
+Database integration and management
+API design and security
+Serverless computing patterns
+Content delivery optimization
+Progressive enhancement methodology
 
-**AWS Services:** S3, IAM
+**AWS Services:** S3, IAM, VPC, EC2, RDS, API Gateway, Lambda, CloudFront
 
-[View Tutorial →](./static-website/)
+[View Tutorial →](./Proj-1-Portfolio/)
 
 ---
 
