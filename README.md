@@ -4,7 +4,7 @@ A collection of AWS Projects created for the K12 STEM Center. These hands-on tut
 
 You can view/download all projects from my Google Drive as well:
 
-![Google Drive](https://drive.google.com/drive/folders/1kRm1b-QOAsBYkRzkdwFVH9yk67CosjJX?usp=sharing)
+[Google Drive](https://drive.google.com/drive/folders/1kRm1b-QOAsBYkRzkdwFVH9yk67CosjJX?usp=sharing)
 
 ## Projects Overview
 
