@@ -12,8 +12,6 @@ This repository contains step-by-step guides for building the following AWS appl
 
 ### 1. Minecraft Server with CloudWatch Monitoring
 
-![Minecraft Server](https://raw.githubusercontent.com/your-username/AWS-Projects/main/images/minecraft-thumbnail.png)
-
 **Description:** Create a Minecraft Java Edition server with real-time player activity monitoring using CloudWatch.
 
 **Skills learned:**
@@ -29,8 +27,6 @@ This repository contains step-by-step guides for building the following AWS appl
 ---
 
 ### 2. Jellyfin Netflix-Like Media Server
-
-![Jellyfin Media Server](https://raw.githubusercontent.com/your-username/AWS-Projects/main/images/jellyfin-thumbnail.png)
 
 **Description:** Build a secure, scalable media server using Jellyfin with HTTPS access and S3 storage integration.
 
@@ -49,8 +45,6 @@ This repository contains step-by-step guides for building the following AWS appl
 
 ### 3. Email Masking Service
 
-![Email Masking](https://raw.githubusercontent.com/your-username/AWS-Projects/main/images/email-masking-thumbnail.png)
-
 **Description:** Create a serverless email masking service that protects your real email address while allowing you to receive messages.
 
 **Skills learned:**
@@ -67,8 +61,6 @@ This repository contains step-by-step guides for building the following AWS appl
 ---
 
 ### 4. Portfolio
-
-![Static Website](https://raw.githubusercontent.com/your-username/AWS-Projects/main/images/website-thumbnail.png)
 
 **Description:** Deploy a personal portfolio website using S3 static website hosting. This will consist of multiple parts, with each part ending in a complete project while adding extra features.
 
