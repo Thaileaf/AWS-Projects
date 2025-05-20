@@ -22,7 +22,7 @@ This repository contains step-by-step guides for building the following AWS appl
 
 **AWS Services:** Lightsail, CloudWatch, Lambda, EC2, VPC
 
-[View Tutorial →](./Proj-2-Minecraft-Server/)
+[View Tutorial →](./Proj-1-Minecraft-Server/)
 
 ---
 
@@ -39,7 +39,7 @@ This repository contains step-by-step guides for building the following AWS appl
 
 **AWS Services:** EC2, VPC, ALB, S3, EBS, IAM
 
-[View Tutorial →](./Proj-3-Netflix-Like-Media-Server/)
+[View Tutorial →](./Proj-2-Netflix-Like-Media-Server/)
 
 ---
 
@@ -56,7 +56,7 @@ This repository contains step-by-step guides for building the following AWS appl
 
 **AWS Services:** Route 53, SES, Lambda, DynamoDB, S3
 
-[View Tutorial →](./Proj-4-Mail-Mask/)
+[View Tutorial →](./Proj-3-Mail-Mask/)
 
 ---
 
@@ -113,7 +113,7 @@ Progressive enhancement methodology
 
 **AWS Services:** S3, IAM, VPC, EC2, RDS, API Gateway, Lambda, CloudFront
 
-[View Tutorial →](./Proj-1-Portfolio/)
+[View Tutorial →](./Proj-4-Portfolio/)
 
 ---
 
@@ -132,8 +132,8 @@ To complete these projects, you'll need:
 
 Each project is contained in its own directory with:
 
-- A Document with all of the step by step instructions
-- Configuration files and code samples when applicable
+- A pdf with all of the step by step instructions
+- Configuration files and code samples when needed
 
 ## Cost Considerations
 
